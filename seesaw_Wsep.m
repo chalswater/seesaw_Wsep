@@ -3,7 +3,7 @@ function Qmax = seesaw_Wsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function performs a see-saw optimization procedure 
 % to compute the maximum witness value Qmax = W_sep(D). 
-% The results for Table I in the paper are provided as:
+% The results for Figure 3 in the paper are provided as:
 %
 %        D    W_Cl      W_sep^{LB}     W_sep^{UB}       
 % RES = [4    16384     16384.0000     16384; 
